@@ -1,6 +1,4 @@
-package jwt
-
-// https://jwt.io/
+package jwt_test
 
 import (
 	"crypto/hmac"
